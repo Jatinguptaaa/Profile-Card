@@ -13,7 +13,7 @@ This project displays a user profile with an image, name, job title, social medi
 
 ## Preview
 
-![Profile Card Screenshot](screenshot.png)
+![Profile Card Screenshot](Images/screenshot.png)
 
 ## Getting Started
 
